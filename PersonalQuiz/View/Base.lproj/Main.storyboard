@@ -221,12 +221,6 @@
                             <constraint firstItem="tiZ-yh-JBO" firstAttribute="leading" secondItem="MNa-xd-IQE" secondAttribute="leading" constant="20" id="TjW-hj-e2D"/>
                             <constraint firstItem="S8m-kh-iHs" firstAttribute="centerY" secondItem="J7a-gJ-8Qd" secondAttribute="centerY" constant="32" id="kfs-iq-esI"/>
                         </constraints>
-                        <variation key="default">
-                            <mask key="subviews">
-                                <exclude reference="S8m-kh-iHs"/>
-                                <exclude reference="Xcg-1I-EyP"/>
-                            </mask>
-                        </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Вопрос №" id="XWr-gI-sO2">
                         <barButtonItem key="rightBarButtonItem" title="To 3 VC" id="95W-zS-sJe">
